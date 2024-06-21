@@ -1,0 +1,7 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+
+	"title": "My Awesome Todo App",
+	"description": "This is a simple todo app that showcases Inlang in a real world application."
+	
+}
